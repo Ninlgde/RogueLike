@@ -28,7 +28,9 @@ namespace UIFramework
         private int popupRootDepth = 100;
         private int maskRootDepth = 150;
 
+        //所有已打开的UI（包含隐藏）
         protected Dictionary<UIID, UIBase> allUI = new Dictionary<UIID, UIBase>();
+        //所有正在显示的UI
         protected Dictionary<UIID, UIBase> shownUI = new Dictionary<UIID, UIBase>();
 
         private static UIManager _instance;

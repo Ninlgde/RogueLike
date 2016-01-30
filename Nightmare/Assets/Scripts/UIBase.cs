@@ -33,20 +33,21 @@ namespace UIFramework
             InitUIOnAwake();
         }
 
+        //显示UI
         public virtual void ShowUI()
         {
             isLock = false;
             isShown = true;
             mTrs.gameObject.SetActive(true);
         }
-
+        //隐藏UI（非关闭）
         public virtual void HideUI()
         {
             isShown = false;
             isLock = true;
             mTrs.gameObject.SetActive(false);
         }
-
+        //销毁UI
         public virtual void DestroyUI()
         {
             GameObject.Destroy(this.gameObject);

@@ -1,27 +1,31 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
-public class GameManager : MonoBehaviour {
+public class NewSceneManager : MonoBehaviour
+{
 
     private string currentSceneName;
     private int currentSceneIndex;
 
-    private static GameManager _instance;
-    public static GameManager GetInstance()
+    private static NewSceneManager _instance;
+    public static NewSceneManager GetInstance()
     {
         if (_instance == null)
-            return new GameManager();
+            return new NewSceneManager();
         return _instance;
     }
-        
-    void Start()
-    {
-        InitGame();    
-    } 
 
-    void InitGame()
+    public void LoadScene(string SceneName)
     {
-
+        SceneManager.LoadScene(SceneName);
     }
+
+    public string GetCurScene()
+    {
+        return SceneManager.GetActiveScene().name;
+    }
+
+
 
 }

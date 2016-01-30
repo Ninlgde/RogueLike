@@ -34,5 +34,38 @@ namespace UIFramework
                 ChangeChildLayer(child, layer);
             }
         }
+
+        /// <summary>
+        /// 查找子节点
+        /// </summary>
+        /// <param name="_target"></param>
+        /// <param name="_childName"></param>
+        /// <returns></returns>
+        public static Transform FindDeepChild(GameObject _target, string _childName)
+        {
+            Transform resultTrs = null;
+            resultTrs = _target.transform.Find(_childName);
+            if(resultTrs == null)
+            {
+                foreach(Transform trs in _target.transform)
+                {
+                    resultTrs = GameUtility.FindDeepChild(trs.gameObject, _childName);
+                    if (resultTrs != null)
+                        return resultTrs;
+                }
+            }
+            return resultTrs;
+        }
+
+        /// <summary>
+        /// 查找子节点脚本
+        /// </summary>
+        public static T FindDeepChild<T>(GameObject _target, string _childName) where T : Component
+        {
+            Transform resultTrs = GameUtility.FindDeepChild(_target, _childName);
+            if (resultTrs != null)
+                return resultTrs.gameObject.GetComponent<T>();
+            return (T)((object)null);
+        }
     }
 }
