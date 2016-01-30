@@ -1,8 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
-using UnityEngine.SceneManagement;
 
-public class GameManager : SceneManager {
+public class GameManager : MonoBehaviour {
 
     private string currentSceneName;
     private int currentSceneIndex;
