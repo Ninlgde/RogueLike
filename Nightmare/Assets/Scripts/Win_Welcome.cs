@@ -42,5 +42,6 @@ public class Win_Welcome : UIBase
     {
         NewSceneManager.GetInstance().LoadScene("SafeRoom");
         this.DestroyUI();
+        UIManager.GetInstance().ShowUI(UIID.UIID_JoyStick);
     }
 }

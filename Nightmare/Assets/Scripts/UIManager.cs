@@ -14,13 +14,13 @@ namespace UIFramework
         public Transform UIRoot;
 
         //普通UI结构节点
-        [System.NonSerialized]
+        //[System.NonSerialized]
         public Transform UINormalRoot;
         //弹出式UI结构节点
-        [System.NonSerialized]
+        //[System.NonSerialized]
         public Transform UIPopUpRoot;
         //遮罩UI结构节点
-        [System.NonSerialized]
+        //[System.NonSerialized]
         public Transform UIMaskRoot;
 
         //节点层级
@@ -60,6 +60,7 @@ namespace UIFramework
             {
                 UINormalRoot = new GameObject("UINormalRoot").transform;
                 GameUtility.AddChildToTarget(UIRoot, UINormalRoot);
+                //UINormalRoot.transform
             }
             if (UIPopUpRoot == null)
             {

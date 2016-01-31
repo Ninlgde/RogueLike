@@ -7,7 +7,8 @@ namespace UIFramework
     public enum UIID
     {
         UIID_Invaild = 0,
-        UIID_Welcome
+        UIID_Welcome,
+        UIID_JoyStick
     }
 
     public enum UIType
@@ -21,7 +22,8 @@ namespace UIFramework
     {
         public static Dictionary<UIID, string> UIPrefabPath = new Dictionary<UIID, string>()
         {
-            {UIID.UIID_Welcome,"Win_Welcome" }
+            {UIID.UIID_Welcome,"Win_Welcome" },
+            {UIID.UIID_JoyStick,"Module_MoveJoystick" }
         };
 
         public static string UIPrefabPathString = "UIPrefabs/";

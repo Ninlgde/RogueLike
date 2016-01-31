@@ -1,0 +1,3701 @@
+fileFormatVersion: 2
+guid: 7a9e253bea0887540ab2ea9ab15c8035
+timeCreated: 1453913958
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wilson_0
+    21300002: wilson_1
+    21300004: wilson_2
+    21300006: wilson_3
+    21300008: wilson_4
+    21300010: wilson_5
+    21300012: wilson_6
+    21300014: wilson_7
+    21300016: wilson_8
+    21300018: wilson_9
+    21300020: wilson_10
+    21300022: wilson_11
+    21300024: wilson_12
+    21300026: wilson_13
+    21300028: wilson_14
+    21300030: wilson_15
+    21300032: wilson_16
+    21300034: wilson_17
+    21300036: wilson_18
+    21300038: wilson_19
+    21300040: wilson_20
+    21300042: wilson_21
+    21300044: wilson_22
+    21300046: wilson_23
+    21300048: wilson_24
+    21300050: wilson_25
+    21300052: wilson_26
+    21300054: wilson_27
+    21300056: wilson_28
+    21300058: wilson_29
+    21300060: wilson_30
+    21300062: wilson_31
+    21300064: wilson_32
+    21300066: wilson_33
+    21300068: wilson_34
+    21300070: wilson_35
+    21300072: wilson_36
+    21300074: wilson_37
+    21300076: wilson_38
+    21300078: wilson_39
+    21300080: wilson_40
+    21300082: wilson_41
+    21300084: wilson_42
+    21300086: wilson_43
+    21300088: wilson_44
+    21300090: wilson_45
+    21300092: wilson_46
+    21300094: wilson_47
+    21300096: wilson_48
+    21300098: wilson_49
+    21300100: wilson_50
+    21300102: wilson_51
+    21300104: wilson_52
+    21300106: wilson_53
+    21300108: wilson_54
+    21300110: wilson_55
+    21300112: wilson_56
+    21300114: wilson_57
+    21300116: wilson_58
+    21300118: wilson_59
+    21300120: wilson_60
+    21300122: wilson_61
+    21300124: wilson_62
+    21300126: wilson_63
+    21300128: wilson_64
+    21300130: wilson_65
+    21300132: wilson_66
+    21300134: wilson_67
+    21300136: wilson_68
+    21300138: wilson_69
+    21300140: wilson_70
+    21300142: wilson_71
+    21300144: wilson_72
+    21300146: wilson_73
+    21300148: wilson_74
+    21300150: wilson_75
+    21300152: wilson_76
+    21300154: wilson_77
+    21300156: wilson_78
+    21300158: wilson_79
+    21300160: wilson_80
+    21300162: wilson_81
+    21300164: wilson_82
+    21300166: wilson_83
+    21300168: wilson_84
+    21300170: wilson_85
+    21300172: wilson_86
+    21300174: wilson_87
+    21300176: wilson_88
+    21300178: wilson_89
+    21300180: wilson_90
+    21300182: wilson_91
+    21300184: wilson_92
+    21300186: wilson_93
+    21300188: wilson_94
+    21300190: wilson_95
+    21300192: wilson_96
+    21300194: wilson_97
+    21300196: wilson_98
+    21300198: wilson_99
+    21300200: wilson_100
+    21300202: wilson_101
+    21300204: wilson_102
+    21300206: wilson_103
+    21300208: wilson_104
+    21300210: wilson_105
+    21300212: wilson_106
+    21300214: wilson_107
+    21300216: wilson_108
+    21300218: wilson_109
+    21300220: wilson_110
+    21300222: wilson_111
+    21300224: wilson_112
+    21300226: wilson_113
+    21300228: wilson_114
+    21300230: wilson_115
+    21300232: wilson_116
+    21300234: wilson_117
+    21300236: wilson_118
+    21300238: wilson_119
+    21300240: wilson_120
+    21300242: wilson_121
+    21300244: wilson_122
+    21300246: wilson_123
+    21300248: wilson_124
+    21300250: wilson_125
+    21300252: wilson_126
+    21300254: wilson_127
+    21300256: wilson_128
+    21300258: wilson_129
+    21300260: wilson_130
+    21300262: wilson_131
+    21300264: wilson_132
+    21300266: wilson_133
+    21300268: wilson_134
+    21300270: wilson_135
+    21300272: wilson_136
+    21300274: wilson_137
+    21300276: wilson_138
+    21300278: wilson_139
+    21300280: wilson_140
+    21300282: wilson_141
+    21300284: wilson_142
+    21300286: wilson_143
+    21300288: wilson_144
+    21300290: wilson_145
+    21300292: wilson_146
+    21300294: wilson_147
+    21300296: wilson_148
+    21300298: wilson_149
+    21300300: wilson_150
+    21300302: wilson_151
+    21300304: wilson_152
+    21300306: wilson_153
+    21300308: wilson_154
+    21300310: wilson_155
+    21300312: wilson_156
+    21300314: wilson_157
+    21300316: wilson_158
+    21300318: wilson_159
+    21300320: wilson_160
+    21300322: wilson_161
+    21300324: wilson_162
+    21300326: wilson_163
+    21300328: wilson_164
+    21300330: wilson_165
+    21300332: wilson_166
+    21300334: wilson_167
+    21300336: wilson_168
+    21300338: wilson_169
+    21300340: wilson_170
+    21300342: wilson_171
+    21300344: wilson_172
+    21300346: wilson_173
+    21300348: wilson_174
+    21300350: wilson_175
+    21300352: wilson_176
+    21300354: wilson_177
+    21300356: wilson_178
+    21300358: wilson_179
+    21300360: wilson_180
+    21300362: wilson_181
+    21300364: wilson_182
+    21300366: wilson_183
+    21300368: wilson_184
+    21300370: wilson_185
+    21300372: wilson_186
+    21300374: wilson_187
+    21300376: wilson_188
+    21300378: wilson_189
+    21300380: wilson_190
+    21300382: wilson_191
+    21300384: wilson_192
+    21300386: wilson_193
+    21300388: wilson_194
+    21300390: wilson_195
+    21300392: wilson_196
+    21300394: wilson_197
+    21300396: wilson_198
+    21300398: wilson_199
+    21300400: wilson_200
+    21300402: wilson_201
+    21300404: wilson_202
+    21300406: wilson_203
+    21300408: wilson_204
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: wilson_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 813
+        width: 158
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 92}
+        - {x: -79, y: 67}
+        - {x: -79, y: -6}
+        - {x: -65, y: -39}
+        - {x: -27, y: -92}
+        - {x: 19, y: -92}
+        - {x: 79, y: -54}
+        - {x: 79, y: 52}
+        - {x: 54, y: 92}
+    - name: wilson_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 781
+        width: 234
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117, y: 57.5}
+        - {x: 97, y: 91.5}
+        - {x: 66, y: 118.5}
+        - {x: -73, y: 118.5}
+        - {x: -89, y: 107.5}
+        - {x: -117, y: 57.5}
+        - {x: -117, y: -20.5}
+        - {x: -115, y: -30.5}
+        - {x: -30, y: -115.5}
+        - {x: -19, y: -118.5}
+        - {x: 4, y: -118.5}
+        - {x: 37, y: -94.5}
+        - {x: 72, y: -80.5}
+        - {x: 117, y: -5.5}
+    - name: wilson_2
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 826
+        width: 226
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: 23.5}
+        - {x: 78, y: 95.5}
+        - {x: 69, y: 95.5}
+        - {x: 42, y: 84.5}
+        - {x: 34, y: 67.5}
+        - {x: -1, y: 86.5}
+        - {x: -17, y: 88.5}
+        - {x: -20, y: 84.5}
+        - {x: -36, y: 66.5}
+        - {x: -40, y: 59.5}
+        - {x: -39, y: 45.5}
+        - {x: -54, y: 34.5}
+        - {x: -40, y: 65.5}
+        - {x: -31, y: 86.5}
+        - {x: -43, y: 95.5}
+        - {x: -49, y: 95.5}
+        - {x: -84, y: 68.5}
+        - {x: -113, y: 36.5}
+        - {x: -113, y: -27.5}
+        - {x: -77, y: -95.5}
+        - {x: 68, y: -95.5}
+        - {x: 101, y: -64.5}
+        - {x: 103, y: -48.5}
+        - {x: 113, y: -6.5}
+    - name: wilson_3
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 827
+        width: 226
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 95}
+        - {x: 38, y: 74}
+        - {x: 36, y: 72}
+        - {x: 46, y: 67}
+        - {x: -13, y: 95}
+        - {x: -21, y: 95}
+        - {x: -43, y: 59}
+        - {x: -39, y: 51}
+        - {x: -33, y: 49}
+        - {x: -23, y: 15}
+        - {x: -44, y: 61}
+        - {x: -36, y: 85}
+        - {x: -40, y: 95}
+        - {x: -62, y: 95}
+        - {x: -113, y: 37}
+        - {x: -113, y: -86}
+        - {x: -74, y: -95}
+        - {x: 95, y: -95}
+        - {x: 113, y: -68}
+        - {x: 113, y: 45}
+        - {x: 101, y: 95}
+    - name: wilson_4
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 811
+        width: 200
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 103}
+        - {x: -19, y: 103}
+        - {x: -56, y: 62}
+        - {x: -62, y: 43}
+        - {x: -78, y: 89}
+        - {x: -94, y: 94}
+        - {x: -100, y: 77}
+        - {x: -100, y: -52}
+        - {x: -37, y: -103}
+        - {x: 80, y: -103}
+        - {x: 100, y: -91}
+        - {x: 100, y: 57}
+        - {x: 67, y: 78}
+    - name: wilson_5
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 854
+        width: 200
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 82.5}
+        - {x: -68, y: 82.5}
+        - {x: -100, y: 32.5}
+        - {x: -100, y: -29.5}
+        - {x: -19, y: -82.5}
+        - {x: 20, y: -82.5}
+        - {x: 100, y: -11.5}
+        - {x: 100, y: 29.5}
+        - {x: 54, y: 78.5}
+    - name: wilson_6
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 854
+        width: 190
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89, y: 47.5}
+        - {x: 69, y: 49.5}
+        - {x: -75, y: 49.5}
+        - {x: -95, y: 13.5}
+        - {x: -95, y: -31.5}
+        - {x: -64, y: -55.5}
+        - {x: 59, y: -55.5}
+        - {x: 84, y: -40.5}
+        - {x: 95, y: -30.5}
+        - {x: 95, y: 18.5}
+      - - {x: -8, y: 53.5}
+        - {x: -8, y: 55.5}
+        - {x: -13, y: 55.5}
+        - {x: -11, y: 52.5}
+    - name: wilson_7
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 842
+        width: 159
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.5, y: 88}
+        - {x: -79.5, y: -31}
+        - {x: -62.5, y: -88}
+        - {x: 26.5, y: -88}
+        - {x: 79.5, y: -38}
+        - {x: 79.5, y: 88}
+    - name: wilson_8
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 842
+        width: 159
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.5, y: 87}
+        - {x: 50.5, y: 88}
+        - {x: -70.5, y: 88}
+        - {x: -79.5, y: 57}
+        - {x: -79.5, y: -38}
+        - {x: -9.5, y: -88}
+        - {x: 39.5, y: -88}
+        - {x: 79.5, y: -25}
+        - {x: 79.5, y: 42}
+        - {x: 74.5, y: 71}
+    - name: wilson_9
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 947
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 35}
+        - {x: -36, y: -1}
+        - {x: -19, y: -35}
+        - {x: 36, y: -35}
+        - {x: 36, y: -7}
+        - {x: 14, y: 35}
+    - name: wilson_10
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 859
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 37.5}
+        - {x: -13, y: 37.5}
+        - {x: -35, y: 3.5}
+        - {x: -35, y: -31.5}
+        - {x: -28, y: -37.5}
+        - {x: 15, y: -37.5}
+        - {x: 18, y: -35.5}
+        - {x: 21, y: -28.5}
+        - {x: 35, y: 18.5}
+        - {x: 35, y: 34.5}
+    - name: wilson_11
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 657
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 78.5}
+        - {x: -51, y: 78.5}
+        - {x: -80, y: 65.5}
+        - {x: -80, y: -23.5}
+        - {x: -21, y: -67.5}
+        - {x: 1, y: -78.5}
+        - {x: 22, y: -78.5}
+        - {x: 80, y: -8.5}
+        - {x: 80, y: 37.5}
+        - {x: 75, y: 58.5}
+    - name: wilson_12
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 658
+        width: 160
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: 58}
+        - {x: 59, y: 78}
+        - {x: -62, y: 78}
+        - {x: -80, y: 76}
+        - {x: -80, y: -7}
+        - {x: -29, y: -67}
+        - {x: -18, y: -78}
+        - {x: 25, y: -78}
+        - {x: 80, y: -34}
+        - {x: 80, y: 27}
+        - {x: 76, y: 31}
+    - name: wilson_13
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 622
+        width: 124
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 88}
+        - {x: -62, y: -41}
+        - {x: -11, y: -77}
+        - {x: 16, y: -88}
+        - {x: 47, y: -88}
+        - {x: 62, y: -39}
+        - {x: 62, y: 85}
+        - {x: 49, y: 88}
+    - name: wilson_14
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 698
+        width: 190
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 50}
+        - {x: -95, y: 19}
+        - {x: -95, y: -24}
+        - {x: -76, y: -50}
+        - {x: 70, y: -50}
+        - {x: 95, y: -22}
+        - {x: 95, y: 7}
+        - {x: 48, y: 50}
+    - name: wilson_15
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 666
+        width: 159
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.5, y: 88}
+        - {x: -79.5, y: 79}
+        - {x: -79.5, y: -26}
+        - {x: -21.5, y: -88}
+        - {x: 25.5, y: -88}
+        - {x: 50.5, y: -63}
+        - {x: 79.5, y: -32}
+        - {x: 79.5, y: 88}
+    - name: wilson_16
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 666
+        width: 159
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.5, y: 88}
+        - {x: -79.5, y: 79}
+        - {x: -79.5, y: -26}
+        - {x: -21.5, y: -88}
+        - {x: 25.5, y: -88}
+        - {x: 50.5, y: -63}
+        - {x: 79.5, y: -32}
+        - {x: 79.5, y: 88}
+    - name: wilson_17
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 657
+        width: 159
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.5, y: -33.5}
+        - {x: -78.5, y: -37.5}
+        - {x: -16.5, y: -86.5}
+        - {x: 25.5, y: -86.5}
+        - {x: 79.5, y: -43.5}
+        - {x: 79.5, y: 46.5}
+        - {x: 55.5, y: 86.5}
+        - {x: -41.5, y: 86.5}
+        - {x: -79.5, y: 42.5}
+    - name: wilson_18
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 657
+        width: 159
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.5, y: -33.5}
+        - {x: -78.5, y: -37.5}
+        - {x: -16.5, y: -86.5}
+        - {x: 25.5, y: -86.5}
+        - {x: 79.5, y: -43.5}
+        - {x: 79.5, y: 46.5}
+        - {x: 55.5, y: 86.5}
+        - {x: -41.5, y: 86.5}
+        - {x: -79.5, y: 42.5}
+    - name: wilson_19
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 654
+        width: 124
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 88}
+        - {x: -44, y: 85}
+        - {x: -40, y: 73}
+        - {x: -44, y: 53}
+        - {x: -62, y: 21}
+        - {x: -62, y: -37}
+        - {x: -11, y: -88}
+        - {x: 50, y: -88}
+        - {x: 62, y: -64}
+        - {x: 62, y: 64}
+        - {x: 54, y: 84}
+        - {x: 12, y: 88}
+    - name: wilson_20
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 795
+        width: 11
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 662
+        width: 160
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 56}
+        - {x: -80, y: 25}
+        - {x: -80, y: -38}
+        - {x: -25, y: -56}
+        - {x: 27, y: -56}
+        - {x: 80, y: -20}
+        - {x: 80, y: 56}
+    - name: wilson_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 731
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 17.5}
+        - {x: -24, y: -1.5}
+        - {x: -24, y: -10.5}
+        - {x: -18, y: -17.5}
+        - {x: 13, y: -17.5}
+        - {x: 17, y: -14.5}
+        - {x: 24, y: -5.5}
+        - {x: 24, y: 17.5}
+      - - {x: 17, y: -16.5}
+        - {x: 17, y: -17.5}
+        - {x: 24, y: -17.5}
+        - {x: 24, y: -9.5}
+        - {x: 21, y: -10.5}
+    - name: wilson_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 638
+        width: 71
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 65.5}
+        - {x: 15.5, y: 64.5}
+        - {x: 15.5, y: 57.5}
+        - {x: 16.5, y: 49.5}
+        - {x: 16.5, y: 45.5}
+        - {x: 16.5, y: 50.5}
+        - {x: 15.5, y: 55.5}
+        - {x: 14.5, y: 58.5}
+        - {x: 10.5, y: 65.5}
+        - {x: 3.5, y: 65.5}
+        - {x: -10.5, y: 54.5}
+        - {x: -10.5, y: 52.5}
+        - {x: -9.5, y: 46.5}
+        - {x: -7.5, y: 44.5}
+        - {x: -29.5, y: 31.5}
+        - {x: -35.5, y: 2.5}
+        - {x: -35.5, y: -61.5}
+        - {x: -33.5, y: -65.5}
+        - {x: -16.5, y: -65.5}
+        - {x: 35.5, y: -58.5}
+        - {x: 35.5, y: 54.5}
+        - {x: 23.5, y: 65.5}
+      - - {x: 1.5, y: -41.5}
+        - {x: -2.5, y: -50.5}
+        - {x: -2.5, y: -53.5}
+        - {x: -0.5, y: -54.5}
+        - {x: 1.5, y: -54.5}
+        - {x: 3.5, y: -52.5}
+        - {x: 3.5, y: -55.5}
+        - {x: 13.5, y: -55.5}
+        - {x: 14.5, y: -53.5}
+        - {x: 14.5, y: -45.5}
+        - {x: 9.5, y: -41.5}
+      - - {x: -26.5, y: 64.5}
+        - {x: -35.5, y: 54.5}
+        - {x: -35.5, y: 26.5}
+        - {x: -15.5, y: 26.5}
+        - {x: -13.5, y: 33.5}
+        - {x: -13.5, y: 64.5}
+    - name: wilson_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 732
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 18}
+        - {x: -20, y: -18}
+        - {x: 20, y: -18}
+        - {x: 20, y: 0}
+        - {x: -12, y: 18}
+    - name: wilson_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 642
+        width: 110
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 25}
+        - {x: 36, y: 28}
+        - {x: 28, y: 26}
+        - {x: 36, y: 28}
+        - {x: 42, y: 30}
+        - {x: 54, y: 40}
+        - {x: 50, y: 64}
+        - {x: 4, y: 64}
+        - {x: -1, y: 46}
+        - {x: -5, y: 27}
+        - {x: -10, y: 23}
+        - {x: -3, y: 41}
+        - {x: -4, y: 52}
+        - {x: -10, y: 64}
+        - {x: -55, y: 64}
+        - {x: -55, y: -63}
+        - {x: -54, y: -64}
+        - {x: -16, y: -64}
+        - {x: 55, y: -54}
+        - {x: 55, y: -39}
+        - {x: 49, y: -11}
+    - name: wilson_26
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 699
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 35}
+        - {x: -26.5, y: 34}
+        - {x: -33.5, y: 16}
+        - {x: -33.5, y: -26}
+        - {x: -28.5, y: -35}
+        - {x: 18.5, y: -35}
+        - {x: 31.5, y: -23}
+        - {x: 33.5, y: 3}
+        - {x: 33.5, y: 35}
+    - name: wilson_27
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 730
+        width: 13
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_28
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 663
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_29
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 666
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_30
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 607
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 38}
+        - {x: 0.5, y: 38}
+        - {x: -0.5, y: 34}
+        - {x: -26.5, y: 4}
+        - {x: -26.5, y: -21}
+        - {x: -12.5, y: -38}
+        - {x: 15.5, y: -38}
+        - {x: 26.5, y: -30}
+        - {x: 26.5, y: 18}
+        - {x: 20.5, y: 36}
+    - name: wilson_31
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 592
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 47}
+        - {x: -14, y: 45}
+        - {x: -31, y: -13}
+        - {x: -31, y: -47}
+        - {x: 13, y: -47}
+        - {x: 23, y: -44}
+        - {x: 31, y: -35}
+        - {x: 31, y: 14}
+        - {x: 12, y: 47}
+      - - {x: -31, y: -11}
+        - {x: -28, y: -10}
+        - {x: -28, y: 2}
+        - {x: -30, y: 4}
+        - {x: -31, y: 4}
+    - name: wilson_32
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 666
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_33
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 666
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_34
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 666
+        width: 13
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 572
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -23}
+        - {x: -16.5, y: -39}
+        - {x: 15.5, y: -39}
+        - {x: 24.5, y: -20}
+        - {x: 24.5, y: 39}
+        - {x: 8.5, y: 39}
+        - {x: -24.5, y: 23}
+      - - {x: 18.5, y: -31}
+        - {x: 18.5, y: -37}
+        - {x: 19.5, y: -39}
+        - {x: 24.5, y: -39}
+        - {x: 24.5, y: -33}
+        - {x: 21.5, y: -30}
+    - name: wilson_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 573
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 38.5}
+        - {x: -21.5, y: 35.5}
+        - {x: -21.5, y: -33.5}
+        - {x: -12.5, y: -38.5}
+        - {x: 14.5, y: -38.5}
+        - {x: 21.5, y: -24.5}
+        - {x: 21.5, y: 11.5}
+        - {x: -2.5, y: 38.5}
+    - name: wilson_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 630
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_38
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 590
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 27.5}
+        - {x: -24, y: 20.5}
+        - {x: -24, y: -5.5}
+        - {x: -13, y: -27.5}
+        - {x: 14, y: -27.5}
+        - {x: 24, y: -19.5}
+        - {x: 24, y: 27.5}
+    - name: wilson_39
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 593
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 26}
+        - {x: -20, y: -23}
+        - {x: -12, y: -26}
+        - {x: 19, y: -26}
+        - {x: 20, y: -25}
+        - {x: 20, y: 12}
+        - {x: 14, y: 26}
+    - name: wilson_40
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 585
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 30.5}
+        - {x: -24, y: -18.5}
+        - {x: -13, y: -30.5}
+        - {x: 12, y: -30.5}
+        - {x: 24, y: -17.5}
+        - {x: 24, y: 30.5}
+    - name: wilson_41
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 585
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 30}
+        - {x: -21.5, y: 30}
+        - {x: -21.5, y: -24}
+        - {x: -15.5, y: -30}
+        - {x: 15.5, y: -30}
+        - {x: 21.5, y: -20}
+        - {x: 21.5, y: 7}
+        - {x: 17.5, y: 27}
+    - name: wilson_42
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 586
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 29.5}
+        - {x: -26.5, y: 22.5}
+        - {x: -26.5, y: -19.5}
+        - {x: -14.5, y: -29.5}
+        - {x: 14.5, y: -29.5}
+        - {x: 26.5, y: -15.5}
+        - {x: 26.5, y: 19.5}
+        - {x: 22.5, y: 29.5}
+    - name: wilson_43
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 571
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 28}
+        - {x: 4.5, y: 31}
+        - {x: -3.5, y: 37}
+        - {x: -12.5, y: 37}
+        - {x: -31.5, y: 16}
+        - {x: -31.5, y: -37}
+        - {x: 2.5, y: -37}
+        - {x: 31.5, y: -11}
+        - {x: 31.5, y: 18}
+        - {x: 29.5, y: 23}
+      - - {x: -31.5, y: 14}
+        - {x: -31.5, y: -4}
+        - {x: -28.5, y: -3}
+        - {x: -27.5, y: 2}
+        - {x: -27.5, y: 10}
+        - {x: -29.5, y: 14}
+    - name: wilson_44
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 623
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_45
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 505
+        width: 84
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 75}
+        - {x: -42, y: -22}
+        - {x: -31, y: -75}
+        - {x: 24, y: -75}
+        - {x: 42, y: 14}
+        - {x: 42, y: 73}
+        - {x: 37, y: 75}
+    - name: wilson_46
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 591
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 31}
+        - {x: -25, y: 15}
+        - {x: -25, y: -24}
+        - {x: -19, y: -31}
+        - {x: 15, y: -31}
+        - {x: 25, y: -27}
+        - {x: 25, y: 22}
+        - {x: 22, y: 31}
+    - name: wilson_47
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 591
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 31.5}
+        - {x: -11.5, y: 31.5}
+        - {x: -15.5, y: 26.5}
+        - {x: -23.5, y: 13.5}
+        - {x: -23.5, y: -31.5}
+        - {x: 15.5, y: -31.5}
+        - {x: 21.5, y: -29.5}
+        - {x: 23.5, y: -21.5}
+        - {x: 23.5, y: 12.5}
+    - name: wilson_48
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 576
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 38.5}
+        - {x: -24, y: 24.5}
+        - {x: -24, y: -22.5}
+        - {x: -15, y: -38.5}
+        - {x: 8, y: -38.5}
+        - {x: 23, y: -27.5}
+        - {x: 24, y: -22.5}
+        - {x: 24, y: 38.5}
+      - - {x: 20, y: -29.5}
+        - {x: 18, y: -30.5}
+        - {x: 18, y: -38.5}
+        - {x: 24, y: -38.5}
+        - {x: 24, y: -30.5}
+    - name: wilson_49
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 577
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 37}
+        - {x: -21, y: -37}
+        - {x: 10, y: -37}
+        - {x: 21, y: -19}
+        - {x: 21, y: 17}
+        - {x: -6, y: 37}
+    - name: wilson_50
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 611
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 17.5}
+        - {x: -24.5, y: 9.5}
+        - {x: -21.5, y: 8.5}
+        - {x: -24.5, y: 4.5}
+        - {x: -24.5, y: -10.5}
+        - {x: -19.5, y: -17.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 24.5, y: -11.5}
+        - {x: 24.5, y: 8.5}
+        - {x: 19.5, y: 17.5}
+    - name: wilson_51
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 553
+        width: 76
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 11.5}
+        - {x: 38, y: 17.5}
+        - {x: 38, y: 45.5}
+        - {x: -13, y: 45.5}
+        - {x: -38, y: -0.5}
+        - {x: -38, y: -45.5}
+        - {x: -2, y: -45.5}
+        - {x: 14, y: -44.5}
+        - {x: 17, y: -40.5}
+        - {x: 14, y: 0.5}
+      - - {x: -31, y: 45.5}
+        - {x: -38, y: 43.5}
+        - {x: -38, y: 10.5}
+        - {x: -31, y: 10.5}
+        - {x: -19, y: 13.5}
+        - {x: -15, y: 22.5}
+        - {x: -15, y: 35.5}
+        - {x: -21, y: 45.5}
+    - name: wilson_52
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 603
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 21}
+        - {x: -23.5, y: -15}
+        - {x: -9.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 23.5, y: -19}
+        - {x: 23.5, y: 21}
+    - name: wilson_53
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 604
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20.5}
+        - {x: -20, y: -15.5}
+        - {x: -10, y: -20.5}
+        - {x: 8, y: -20.5}
+        - {x: 20, y: -10.5}
+        - {x: 20, y: 20.5}
+    - name: wilson_54
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 609
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 18}
+        - {x: -24.5, y: 17}
+        - {x: -24.5, y: -17}
+        - {x: -20.5, y: -18}
+        - {x: 20.5, y: -18}
+        - {x: 24.5, y: -12}
+        - {x: 24.5, y: 13}
+        - {x: 22.5, y: 18}
+    - name: wilson_55
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 590
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 26.5}
+        - {x: -28, y: 11.5}
+        - {x: -28, y: -26.5}
+        - {x: 28, y: -26.5}
+        - {x: 28, y: 17.5}
+        - {x: 25, y: 26.5}
+      - - {x: -12, y: -26.5}
+        - {x: -4, y: -26.5}
+        - {x: -4, y: -24.5}
+        - {x: -5, y: -22.5}
+        - {x: -8, y: -22.5}
+        - {x: -12, y: -24.5}
+      - - {x: -28, y: 4.5}
+        - {x: -25, y: 5.5}
+        - {x: -25, y: 9.5}
+        - {x: -27, y: 11.5}
+        - {x: -28, y: 11.5}
+    - name: wilson_56
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 590
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 26}
+        - {x: -5.5, y: 25}
+        - {x: -23.5, y: 19}
+        - {x: -23.5, y: 0}
+        - {x: -20.5, y: -10}
+        - {x: -8.5, y: -24}
+        - {x: -6.5, y: -26}
+        - {x: 15.5, y: -26}
+        - {x: 23.5, y: -19}
+        - {x: 23.5, y: 26}
+    - name: wilson_57
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 591
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 24.5}
+        - {x: -19.5, y: -15.5}
+        - {x: -13.5, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 17.5, y: -22.5}
+        - {x: 19.5, y: -20.5}
+        - {x: 19.5, y: 24.5}
+    - name: wilson_58
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 587
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 26.5}
+        - {x: -24, y: 13.5}
+        - {x: -24, y: -21.5}
+        - {x: -11, y: -26.5}
+        - {x: 19, y: -26.5}
+        - {x: 24, y: -19.5}
+        - {x: 24, y: 26.5}
+    - name: wilson_59
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 590
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25.5}
+        - {x: -20, y: 25.5}
+        - {x: -20, y: -21.5}
+        - {x: -19, y: -25.5}
+        - {x: 20, y: -25.5}
+        - {x: 20, y: 13.5}
+        - {x: 9, y: 19.5}
+    - name: wilson_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 565
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_61
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 561
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 28}
+        - {x: -24, y: -25}
+        - {x: -20, y: -28}
+        - {x: 14, y: -28}
+        - {x: 24, y: -24}
+        - {x: 24, y: 28}
+    - name: wilson_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 547
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_63
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 564
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26.5}
+        - {x: -19, y: 26.5}
+        - {x: -20, y: 23.5}
+        - {x: -20, y: -17.5}
+        - {x: -11, y: -26.5}
+        - {x: 12, y: -26.5}
+        - {x: 20, y: -18.5}
+        - {x: 20, y: 8.5}
+        - {x: 18, y: 14.5}
+    - name: wilson_64
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 542
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 38}
+        - {x: -32, y: -13}
+        - {x: -29, y: -30}
+        - {x: -11, y: -38}
+        - {x: 24, y: -38}
+        - {x: 32, y: -34}
+        - {x: 32, y: 2}
+        - {x: 28, y: 21}
+        - {x: 15, y: 33}
+        - {x: 2, y: 38}
+    - name: wilson_65
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 577
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 26}
+        - {x: -24, y: 17}
+        - {x: -24, y: -10}
+        - {x: -16, y: -24}
+        - {x: -11, y: -26}
+        - {x: 15, y: -26}
+        - {x: 24, y: -13}
+        - {x: 24, y: 24}
+        - {x: 22, y: 26}
+    - name: wilson_66
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 563
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_67
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 580
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24.5}
+        - {x: -20, y: -20.5}
+        - {x: -14, y: -24.5}
+        - {x: 13, y: -24.5}
+        - {x: 19, y: -23.5}
+        - {x: 20, y: -20.5}
+        - {x: 20, y: 18.5}
+        - {x: 5, y: 24.5}
+    - name: wilson_68
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 576
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_69
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 570
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_70
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 554
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -17.5}
+        - {x: -18, y: -27.5}
+        - {x: 21, y: -27.5}
+        - {x: 24, y: -25.5}
+        - {x: 24, y: 27.5}
+        - {x: -4, y: 27.5}
+        - {x: -24, y: 22.5}
+    - name: wilson_71
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 557
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 26.5}
+        - {x: -20, y: -25.5}
+        - {x: -18, y: -26.5}
+        - {x: 20, y: -26.5}
+        - {x: 20, y: 16.5}
+        - {x: -6, y: 26.5}
+    - name: wilson_72
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 570
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 20}
+        - {x: -31, y: -14}
+        - {x: -23, y: -20}
+        - {x: 17, y: -20}
+        - {x: 31, y: -11}
+        - {x: 31, y: 20}
+    - name: wilson_73
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 570
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_74
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 550
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 30.5}
+        - {x: -9, y: 12.5}
+        - {x: -18, y: -13.5}
+        - {x: -18, y: -30.5}
+        - {x: 18, y: -30.5}
+        - {x: 18, y: 30.5}
+      - - {x: -18, y: 30.5}
+        - {x: -18, y: 14.5}
+        - {x: -16, y: 14.5}
+        - {x: -8, y: 23.5}
+        - {x: -6, y: 30.5}
+    - name: wilson_75
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 569
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_76
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 555
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 12.5}
+        - {x: 33, y: 34.5}
+        - {x: 2, y: 34.5}
+        - {x: -29, y: -0.5}
+        - {x: -33, y: -10.5}
+        - {x: -33, y: -34.5}
+        - {x: 33, y: -34.5}
+        - {x: 33, y: -4.5}
+        - {x: 21, y: 6.5}
+      - - {x: -33, y: 34.5}
+        - {x: -33, y: 11.5}
+        - {x: -21, y: 11.5}
+        - {x: -7, y: 19.5}
+        - {x: -7, y: 34.5}
+    - name: wilson_77
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 555
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 19}
+        - {x: -20, y: 19}
+        - {x: -22, y: 9}
+        - {x: -23, y: 3}
+        - {x: -23, y: -19}
+        - {x: 18, y: -19}
+        - {x: 23, y: -18}
+        - {x: 23, y: 6}
+        - {x: 21, y: 17}
+    - name: wilson_78
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 574
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_79
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 573
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_80
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 550
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_81
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 551
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_82
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 550
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_83
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 558
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_84
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 540
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_85
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 551
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_86
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 554
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_87
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 559
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_88
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 547
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_89
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 503
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 27}
+        - {x: -9, y: 23}
+        - {x: -24, y: 13}
+        - {x: -24, y: -22}
+        - {x: -15, y: -27}
+        - {x: 19, y: -27}
+        - {x: 24, y: -12}
+        - {x: 24, y: 25}
+        - {x: 23, y: 27}
+    - name: wilson_90
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 506
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 25.5}
+        - {x: -20, y: -25.5}
+        - {x: 20, y: -25.5}
+        - {x: 20, y: 24.5}
+        - {x: 19, y: 25.5}
+    - name: wilson_91
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 487
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 35}
+        - {x: -32, y: -29}
+        - {x: -26, y: -35}
+        - {x: 23, y: -35}
+        - {x: 32, y: -31}
+        - {x: 32, y: 6}
+        - {x: 14, y: 35}
+    - name: wilson_92
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 510
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_93
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 467
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 35}
+        - {x: -31, y: 6}
+        - {x: -31, y: -34}
+        - {x: -30, y: -35}
+        - {x: 31, y: -35}
+        - {x: 31, y: 35}
+    - name: wilson_94
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 535
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_95
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 492
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22.5}
+        - {x: -24, y: -18.5}
+        - {x: -16, y: -22.5}
+        - {x: 20, y: -22.5}
+        - {x: 24, y: -12.5}
+        - {x: 24, y: 22.5}
+    - name: wilson_96
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 502
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 17.5}
+        - {x: -24.5, y: 9.5}
+        - {x: -21.5, y: 8.5}
+        - {x: -24.5, y: 4.5}
+        - {x: -24.5, y: -10.5}
+        - {x: -19.5, y: -17.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 24.5, y: -11.5}
+        - {x: 24.5, y: 8.5}
+        - {x: 19.5, y: 17.5}
+    - name: wilson_97
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 493
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 26.5}
+        - {x: -23.5, y: 0.5}
+        - {x: -20.5, y: -8.5}
+        - {x: -10.5, y: -26.5}
+        - {x: 15.5, y: -26.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: 26.5}
+    - name: wilson_98
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 495
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 24.5}
+        - {x: -19.5, y: -21.5}
+        - {x: -13.5, y: -24.5}
+        - {x: 18.5, y: -24.5}
+        - {x: 19.5, y: -22.5}
+        - {x: 19.5, y: 20.5}
+        - {x: 18.5, y: 24.5}
+    - name: wilson_99
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 526
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_100
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 495
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22}
+        - {x: -24, y: 17}
+        - {x: -24, y: -18}
+        - {x: -15, y: -22}
+        - {x: 23, y: -22}
+        - {x: 24, y: -20}
+        - {x: 24, y: 22}
+    - name: wilson_101
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 478
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 23}
+        - {x: 26.5, y: 28}
+        - {x: 15.5, y: 29}
+        - {x: -14.5, y: 29}
+        - {x: -17.5, y: 22}
+        - {x: -22.5, y: 8}
+        - {x: -27.5, y: -12}
+        - {x: -27.5, y: -26}
+        - {x: -24.5, y: -29}
+        - {x: -15.5, y: -29}
+        - {x: -14.5, y: -22}
+        - {x: 16.5, y: -15}
+        - {x: 27.5, y: -3}
+    - name: wilson_102
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 502
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 18}
+        - {x: -23.5, y: 18}
+        - {x: -24.5, y: 17}
+        - {x: -24.5, y: -12}
+        - {x: -15.5, y: -18}
+        - {x: 15.5, y: -18}
+        - {x: 24.5, y: -12}
+        - {x: 24.5, y: 12}
+        - {x: 23.5, y: 16}
+    - name: wilson_103
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 482
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 22}
+        - {x: 23, y: 27}
+        - {x: -17, y: 27}
+        - {x: -28, y: 9}
+        - {x: -28, y: -23}
+        - {x: -23, y: -27}
+        - {x: -14, y: -27}
+        - {x: 22, y: -10}
+        - {x: 28, y: -2}
+        - {x: 28, y: 17}
+      - - {x: -28, y: 5}
+        - {x: -25, y: 6}
+        - {x: -25, y: 9}
+        - {x: -27, y: 11}
+        - {x: -28, y: 11}
+    - name: wilson_104
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 490
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 26.5}
+        - {x: 8, y: 26.5}
+        - {x: -24, y: 11.5}
+        - {x: -24, y: -14.5}
+        - {x: -15, y: -26.5}
+        - {x: 14, y: -26.5}
+        - {x: 24, y: -22.5}
+        - {x: 24, y: 20.5}
+    - name: wilson_105
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 493
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 25}
+        - {x: -20, y: -18}
+        - {x: -13, y: -25}
+        - {x: 9, y: -25}
+        - {x: 20, y: -14}
+        - {x: 20, y: 13}
+        - {x: 0, y: 25}
+    - name: wilson_106
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 496
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 20}
+        - {x: -23.5, y: 18}
+        - {x: -23.5, y: -15}
+        - {x: -20.5, y: -20}
+        - {x: 19.5, y: -20}
+        - {x: 23.5, y: -19}
+        - {x: 23.5, y: 20}
+    - name: wilson_107
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 475
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 33}
+        - {x: -17.5, y: 33}
+        - {x: -27.5, y: -4}
+        - {x: -27.5, y: -30}
+        - {x: -23.5, y: -33}
+        - {x: 5.5, y: -33}
+        - {x: 27.5, y: -25}
+        - {x: 27.5, y: 31}
+        - {x: 26.5, y: 32}
+    - name: wilson_108
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 490
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 26}
+        - {x: 3.5, y: 26}
+        - {x: -5.5, y: 25}
+        - {x: -23.5, y: 19}
+        - {x: -23.5, y: -3}
+        - {x: -21.5, y: -9}
+        - {x: -6.5, y: -26}
+        - {x: 11.5, y: -26}
+        - {x: 18.5, y: -23}
+        - {x: 23.5, y: -16}
+        - {x: 23.5, y: 21}
+    - name: wilson_109
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 491
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 24.5}
+        - {x: -19.5, y: -21.5}
+        - {x: -15.5, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 17.5, y: -22.5}
+        - {x: 19.5, y: -20.5}
+        - {x: 19.5, y: 24.5}
+    - name: wilson_110
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 490
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 26}
+        - {x: 3.5, y: 26}
+        - {x: -5.5, y: 25}
+        - {x: -23.5, y: 19}
+        - {x: -23.5, y: -3}
+        - {x: -21.5, y: -9}
+        - {x: -6.5, y: -26}
+        - {x: 11.5, y: -26}
+        - {x: 18.5, y: -23}
+        - {x: 23.5, y: -16}
+        - {x: 23.5, y: 21}
+    - name: wilson_111
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 491
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 24.5}
+        - {x: -19.5, y: -21.5}
+        - {x: -15.5, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 17.5, y: -22.5}
+        - {x: 19.5, y: -20.5}
+        - {x: 19.5, y: 24.5}
+    - name: wilson_112
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 501
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 20.5}
+        - {x: -23.5, y: 16.5}
+        - {x: -23.5, y: -6.5}
+        - {x: -14.5, y: -20.5}
+        - {x: 17.5, y: -20.5}
+        - {x: 23.5, y: -17.5}
+        - {x: 23.5, y: 20.5}
+    - name: wilson_113
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 481
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 32.5}
+        - {x: -27.5, y: -12.5}
+        - {x: -27.5, y: -32.5}
+        - {x: 22.5, y: -32.5}
+        - {x: 27.5, y: -23.5}
+        - {x: 27.5, y: 32.5}
+    - name: wilson_114
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 446
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 38}
+        - {x: -26, y: 34}
+        - {x: -28, y: 19}
+        - {x: -28, y: -35}
+        - {x: -18, y: -38}
+        - {x: 25, y: -38}
+        - {x: 28, y: -35}
+        - {x: 28, y: 37}
+        - {x: 21, y: 38}
+    - name: wilson_115
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 455
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -32}
+        - {x: -6, y: -33}
+        - {x: 17, y: -33}
+        - {x: 17, y: -30}
+        - {x: 16, y: -28}
+        - {x: -4, y: -28}
+      - - {x: 20, y: 26}
+        - {x: 17, y: 17}
+        - {x: 18, y: 19}
+        - {x: 18, y: 21}
+        - {x: 17, y: 33}
+        - {x: -29, y: 33}
+        - {x: -29, y: -2}
+        - {x: -13, y: -20}
+        - {x: 17, y: -33}
+        - {x: 29, y: -33}
+        - {x: 29, y: 27}
+        - {x: 28, y: 29}
+    - name: wilson_116
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 459
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -30.5}
+        - {x: -7, y: -33.5}
+        - {x: -7, y: -35.5}
+        - {x: 17, y: -35.5}
+        - {x: 17, y: -32.5}
+        - {x: 15, y: -30.5}
+      - - {x: -28, y: 35.5}
+        - {x: -29, y: 33.5}
+        - {x: -29, y: -0.5}
+        - {x: -20, y: -16.5}
+        - {x: -5, y: -28.5}
+        - {x: 18, y: -35.5}
+        - {x: 29, y: -35.5}
+        - {x: 29, y: 35.5}
+    - name: wilson_117
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 474
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 30.5}
+        - {x: -35, y: -28.5}
+        - {x: -34, y: -30.5}
+        - {x: 27, y: -30.5}
+        - {x: 33, y: -28.5}
+        - {x: 35, y: -24.5}
+        - {x: 35, y: 30.5}
+    - name: wilson_118
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 479
+        width: 15
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_119
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 475
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_120
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 493
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -20.5, y: -13}
+        - {x: -12.5, y: -20}
+        - {x: 14.5, y: -20}
+        - {x: 20.5, y: -15}
+        - {x: 20.5, y: 17}
+        - {x: 19.5, y: 20}
+    - name: wilson_121
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 482
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 19.5}
+        - {x: 26, y: 26.5}
+        - {x: -20, y: 26.5}
+        - {x: -28, y: -4.5}
+        - {x: -28, y: -23.5}
+        - {x: -25, y: -26.5}
+        - {x: -16, y: -26.5}
+        - {x: -15, y: -25.5}
+        - {x: 15, y: -9.5}
+        - {x: 28, y: -0.5}
+      - - {x: -28, y: 5.5}
+        - {x: -25, y: 6.5}
+        - {x: -25, y: 9.5}
+        - {x: -27, y: 11.5}
+        - {x: -28, y: 11.5}
+    - name: wilson_122
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 478
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_123
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 448
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -26.5}
+        - {x: -7, y: -30.5}
+        - {x: -7, y: -32.5}
+        - {x: 17, y: -32.5}
+        - {x: 17, y: -28.5}
+        - {x: 15, y: -26.5}
+      - - {x: 23, y: 27.5}
+        - {x: 20, y: 24.5}
+        - {x: 12, y: 32.5}
+        - {x: 2, y: 32.5}
+        - {x: -26, y: 28.5}
+        - {x: -29, y: 24.5}
+        - {x: -29, y: -7.5}
+        - {x: 10, y: -32.5}
+        - {x: 29, y: -32.5}
+        - {x: 29, y: 26.5}
+        - {x: 27, y: 28.5}
+    - name: wilson_124
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 473
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -21}
+        - {x: 17, y: -21}
+        - {x: 17, y: 8}
+        - {x: 9, y: 21}
+        - {x: -17, y: 21}
+        - {x: -17, y: -12}
+    - name: wilson_125
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 489
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_126
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 466
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_127
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 476
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_128
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 474
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_129
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 474
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_130
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 466
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_131
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 475
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_132
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 423
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 35}
+        - {x: -28, y: 35}
+        - {x: -28, y: -30}
+        - {x: -24, y: -34}
+        - {x: -18, y: -35}
+        - {x: 17, y: -35}
+        - {x: 28, y: -28}
+        - {x: 28, y: 4}
+        - {x: 25, y: 30}
+    - name: wilson_133
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 465
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_134
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 470
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_135
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 462
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_136
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 463
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_137
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 463
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_138
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 403
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 35}
+        - {x: -28.5, y: 34}
+        - {x: -28.5, y: -26}
+        - {x: -17.5, y: -35}
+        - {x: 21.5, y: -35}
+        - {x: 28.5, y: -28}
+        - {x: 28.5, y: 14}
+        - {x: 26.5, y: 35}
+    - name: wilson_139
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 461
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_140
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 463
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_141
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 462
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_142
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 462
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_143
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 454
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_144
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 457
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_145
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 403
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 29}
+        - {x: -31.5, y: 16}
+        - {x: -31.5, y: -24}
+        - {x: -24.5, y: -29}
+        - {x: 24.5, y: -29}
+        - {x: 31.5, y: -11}
+        - {x: 31.5, y: 23}
+        - {x: 25.5, y: 29}
+    - name: wilson_146
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 406
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 28}
+        - {x: -32, y: -28}
+        - {x: 32, y: -28}
+        - {x: 32, y: -2}
+        - {x: 20, y: 28}
+    - name: wilson_147
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 400
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -24.5}
+        - {x: -6.5, y: -27.5}
+        - {x: -6.5, y: -29.5}
+        - {x: 17.5, y: -29.5}
+        - {x: 17.5, y: -26.5}
+        - {x: 15.5, y: -24.5}
+      - - {x: -28.5, y: 29.5}
+        - {x: -28.5, y: -2.5}
+        - {x: -20.5, y: -20.5}
+        - {x: 12.5, y: -29.5}
+        - {x: 28.5, y: -29.5}
+        - {x: 28.5, y: 29.5}
+    - name: wilson_148
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 413
+        width: 12
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_149
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 410
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 24}
+        - {x: -12, y: 21}
+        - {x: -34, y: 2}
+        - {x: -34, y: -24}
+        - {x: 3, y: -24}
+        - {x: 34, y: 4}
+        - {x: 34, y: 23}
+        - {x: 32, y: 24}
+    - name: wilson_150
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 402
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 26}
+        - {x: -29, y: 18}
+        - {x: -29, y: 5}
+        - {x: -26, y: 2}
+        - {x: -15, y: -26}
+        - {x: 23, y: -26}
+        - {x: 29, y: -17}
+        - {x: 29, y: 10}
+        - {x: 14, y: 26}
+    - name: wilson_151
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 402
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 24.5}
+        - {x: -20, y: 24.5}
+        - {x: -26, y: 18.5}
+        - {x: -26, y: -18.5}
+        - {x: -19, y: -24.5}
+        - {x: 13, y: -24.5}
+        - {x: 21, y: -19.5}
+        - {x: 26, y: -14.5}
+        - {x: 26, y: 17.5}
+    - name: wilson_152
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 410
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -29, y: 18}
+        - {x: -29, y: -20}
+        - {x: 26, y: -20}
+        - {x: 29, y: -14}
+        - {x: 29, y: 20}
+    - name: wilson_153
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 411
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_154
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 403
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 25}
+        - {x: -29, y: 18}
+        - {x: -29, y: 7}
+        - {x: -27, y: 3}
+        - {x: -18, y: -24}
+        - {x: -16, y: -25}
+        - {x: 14, y: -25}
+        - {x: 29, y: -16}
+        - {x: 29, y: -2}
+        - {x: 15, y: 25}
+    - name: wilson_155
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 410
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 19.5}
+        - {x: -30, y: -10.5}
+        - {x: -23, y: -19.5}
+        - {x: 26, y: -19.5}
+        - {x: 30, y: -9.5}
+        - {x: 30, y: 19.5}
+    - name: wilson_156
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 411
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 19}
+        - {x: -29.5, y: 19}
+        - {x: -29.5, y: -14}
+        - {x: -16.5, y: -19}
+        - {x: 13.5, y: -19}
+        - {x: 23.5, y: -12}
+        - {x: 29.5, y: -5}
+        - {x: 29.5, y: 17}
+    - name: wilson_157
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 447
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_158
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 401
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 27}
+        - {x: -26.5, y: 11}
+        - {x: -26.5, y: -19}
+        - {x: -23.5, y: -27}
+        - {x: 1.5, y: -27}
+        - {x: 26.5, y: -8}
+        - {x: 26.5, y: 23}
+        - {x: 21.5, y: 27}
+    - name: wilson_159
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 405
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 24.5}
+        - {x: -26, y: 22.5}
+        - {x: -26, y: -16.5}
+        - {x: -22, y: -24.5}
+        - {x: 20, y: -24.5}
+        - {x: 26, y: -20.5}
+        - {x: 26, y: 24.5}
+    - name: wilson_160
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 402
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 26}
+        - {x: -17, y: 20}
+        - {x: -18, y: 11}
+        - {x: -18, y: -26}
+        - {x: 18, y: -26}
+        - {x: 18, y: 23}
+        - {x: 16, y: 26}
+    - name: wilson_161
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 411
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -13}
+        - {x: -26, y: -19}
+        - {x: 20, y: -19}
+        - {x: 30, y: -15}
+        - {x: 30, y: 18}
+        - {x: 29, y: 19}
+        - {x: -27, y: 19}
+        - {x: -30, y: 17}
+    - name: wilson_162
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 418
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_163
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 419
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_164
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 414
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 18}
+        - {x: -30, y: -8}
+        - {x: -18, y: -18}
+        - {x: 20, y: -18}
+        - {x: 30, y: -11}
+        - {x: 30, y: 18}
+    - name: wilson_165
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 414
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 18}
+        - {x: -28.5, y: -14}
+        - {x: -23.5, y: -18}
+        - {x: 19.5, y: -18}
+        - {x: 28.5, y: -16}
+        - {x: 28.5, y: 18}
+    - name: wilson_166
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 415
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 17}
+        - {x: -28, y: -9}
+        - {x: -22, y: -17}
+        - {x: 17, y: -17}
+        - {x: 28, y: -7}
+        - {x: 28, y: 17}
+    - name: wilson_167
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 414
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 18}
+        - {x: -28, y: -12}
+        - {x: -25, y: -18}
+        - {x: 21, y: -18}
+        - {x: 28, y: -11}
+        - {x: 28, y: 18}
+    - name: wilson_168
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 410
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 20}
+        - {x: -23, y: 13}
+        - {x: -23, y: -12}
+        - {x: -8, y: -20}
+        - {x: 20, y: -20}
+        - {x: 23, y: -10}
+        - {x: 23, y: 20}
+    - name: wilson_169
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 410
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 20}
+        - {x: -22, y: 17}
+        - {x: -23, y: 13}
+        - {x: -23, y: -10}
+        - {x: -7, y: -20}
+        - {x: 15, y: -20}
+        - {x: 16, y: -13}
+        - {x: 23, y: 2}
+        - {x: 23, y: 20}
+    - name: wilson_170
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 398
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 26}
+        - {x: -18, y: 6}
+        - {x: -18, y: -26}
+        - {x: 11, y: -26}
+        - {x: 18, y: -25}
+        - {x: 18, y: 6}
+        - {x: 16, y: 26}
+    - name: wilson_171
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 398
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_172
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 382
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_173
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 385
+        width: 12
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_174
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 394
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24}
+        - {x: -19, y: 9}
+        - {x: -19, y: -16}
+        - {x: -18, y: -19}
+        - {x: -8, y: -24}
+        - {x: 8, y: -24}
+        - {x: 19, y: -22}
+        - {x: 19, y: 24}
+    - name: wilson_175
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 413
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 17}
+        - {x: -28, y: -9}
+        - {x: -20, y: -17}
+        - {x: 18, y: -17}
+        - {x: 28, y: -13}
+        - {x: 28, y: 17}
+    - name: wilson_176
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 382
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26}
+        - {x: -16, y: -1}
+        - {x: -16, y: -26}
+        - {x: 16, y: -26}
+        - {x: 16, y: 15}
+        - {x: 11, y: 26}
+    - name: wilson_177
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 382
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_178
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 369
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 17}
+        - {x: -21, y: 14}
+        - {x: -21, y: -14}
+        - {x: -20, y: -17}
+        - {x: 21, y: -17}
+        - {x: 21, y: 17}
+    - name: wilson_179
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 354
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_180
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 354
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_181
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 398
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_182
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 354
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_183
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 366
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 22.5}
+        - {x: -3.5, y: 22.5}
+        - {x: -18.5, y: 13.5}
+        - {x: -18.5, y: 0.5}
+        - {x: -15.5, y: -1.5}
+        - {x: -12.5, y: -1.5}
+        - {x: -16.5, y: -13.5}
+        - {x: -11.5, y: -22.5}
+        - {x: 10.5, y: -22.5}
+        - {x: 18.5, y: -13.5}
+        - {x: 18.5, y: 21.5}
+    - name: wilson_184
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 362
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_185
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 361
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_186
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 381
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_187
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 367
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 19}
+        - {x: -17, y: 19}
+        - {x: -18, y: 18}
+        - {x: -18, y: -6}
+        - {x: -11, y: -19}
+        - {x: 15, y: -19}
+        - {x: 18, y: -17}
+        - {x: 18, y: 13}
+        - {x: 17, y: 15}
+    - name: wilson_188
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 369
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 16.5}
+        - {x: -21, y: 11.5}
+        - {x: -21, y: -14.5}
+        - {x: -15, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 21, y: -9.5}
+        - {x: 21, y: 16.5}
+    - name: wilson_189
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 369
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 17}
+        - {x: -19.5, y: 17}
+        - {x: -22.5, y: 16}
+        - {x: -22.5, y: -11}
+        - {x: -16.5, y: -17}
+        - {x: 14.5, y: -17}
+        - {x: 22.5, y: -11}
+        - {x: 22.5, y: 8}
+        - {x: 20.5, y: 12}
+    - name: wilson_190
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 362
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 20}
+        - {x: -17, y: 7}
+        - {x: -17, y: -10}
+        - {x: -4, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 20}
+    - name: wilson_191
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 362
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -17, y: 20}
+        - {x: -17, y: 1}
+        - {x: -12, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 5}
+        - {x: 10, y: 19}
+    - name: wilson_192
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 367
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 17}
+        - {x: -14, y: 17}
+        - {x: -17, y: 13}
+        - {x: -17, y: -16}
+        - {x: -14, y: -17}
+        - {x: 10, y: -17}
+        - {x: 16, y: -11}
+        - {x: 17, y: -8}
+        - {x: 17, y: 12}
+    - name: wilson_193
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -15}
+        - {x: -15, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+    - name: wilson_194
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 358
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_195
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 382
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_196
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 366
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_197
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 375
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_198
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 371
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_199
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 373
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_200
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 371
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_201
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 354
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_202
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 374
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_203
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 385
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wilson_204
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 386
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
